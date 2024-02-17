@@ -5,13 +5,10 @@
     "habitat": "Peternakan"
   },
   {
-    "name": "Lumba-lumba",
-    "type": "Mamalia",
-    "habitat": "Laut"
-  },
-  {
+    
     "name": "Lumba-lumba",
     "type": "Mamalia",
     "habitat": "Laut"
   }
+
 ]
